@@ -63,7 +63,7 @@ The **Amazon Sales Dashboard** is an interactive Business Intelligence dashboard
 * KPI Development
 
 ## 📷 Dashboard Preview
-<img width="1309" height="723" alt="image" src="https://github.com/user-attachments/assets/57be1338-344e-426c-8536-417edfa6bf76" />
+<img width="656" height="359" alt="image" src="https://github.com/user-attachments/assets/ac87aa09-1d0f-40fd-a41c-08f55d8513d1" />
 
 
 ## 👨‍💻 Author
